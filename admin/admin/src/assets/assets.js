@@ -49,6 +49,7 @@ import food_32 from './food_32.png'
 
 import add_icon_white from './add_icon_white.png'
 import add_icon_green from './add_icon_green.png'
+import list_items from './list_items.png'
 import remove_icon_red from './remove_icon_red.png'
 import app_store from './app_store.png'
 import play_store from './play_store.png'
@@ -62,6 +63,9 @@ import profile_icon from './profile_icon.png'
 import bag_icon from './bag_icon.png'
 import logout_icon from './logout_icon.png'
 import parcel_icon from './parcel_icon.png'
+import pizza_logo from './pizza_logo.png'
+import upload_img from './upload_img.png'
+
 
 export const assets = {
     logo1,
@@ -85,7 +89,10 @@ export const assets = {
     profile_icon,
     logout_icon,
     bag_icon,
-    parcel_icon
+    parcel_icon,
+    list_items,
+    pizza_logo,
+    upload_img
 }
 
 export const menu_list = [
